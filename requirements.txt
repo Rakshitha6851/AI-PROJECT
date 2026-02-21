@@ -1,0 +1,10 @@
+streamlit
+torch
+numpy
+regex
+requests
+python-docx
+reportlab
+python-dotenv
+faster-whisper
+ctranslate2
